@@ -1,0 +1,11 @@
+.App{
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  height: 150px;
+  background-color: aqua;
+}
+.center{
+  text-align: center;
+  align-self: center;
+}
